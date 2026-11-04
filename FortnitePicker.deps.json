@@ -1,0 +1,1878 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "FortnitePicker/1.0.0": {
+        "dependencies": {
+          "Editor": "1.0.0",
+          "Snooper": "1.0.0",
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.12",
+          "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "10.0.12"
+        },
+        "runtime": {
+          "FortnitePicker.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/10.0.12": {
+        "runtime": {
+          "Microsoft.CSharp.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "Microsoft.VisualBasic.Core.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.1226.42308"
+          },
+          "Microsoft.VisualBasic.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "Microsoft.Win32.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "Microsoft.Win32.Registry.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.AppContext.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Buffers.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.NonGeneric.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.Specialized.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.DataAnnotations.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.EventBasedAsync.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.TypeConverter.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ComponentModel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Configuration.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Console.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Data.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Data.DataSetExtensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Data.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.Contracts.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.Debug.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.FileVersionInfo.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.Process.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.StackTrace.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.TextWriterTraceListener.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.Tools.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.TraceSource.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.Tracing.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Drawing.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Drawing.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Dynamic.Runtime.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Formats.Asn1.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Formats.Tar.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Globalization.Calendars.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Globalization.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Globalization.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Compression.Brotli.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Compression.FileSystem.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Compression.ZipFile.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.FileSystem.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.FileSystem.DriveInfo.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.FileSystem.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.FileSystem.Watcher.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.FileSystem.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.IsolatedStorage.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Pipelines.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Pipes.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Pipes.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.UnmanagedMemoryStream.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Linq.AsyncEnumerable.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Linq.Expressions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Linq.Parallel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Linq.Queryable.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Linq.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Memory.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Http.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Http.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.HttpListener.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Mail.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.NameResolution.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.NetworkInformation.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Ping.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Quic.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Requests.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Security.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.ServerSentEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.ServicePoint.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.Sockets.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.WebClient.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.WebHeaderCollection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.WebProxy.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.WebSockets.Client.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.WebSockets.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Net.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Numerics.Vectors.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Numerics.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ObjectModel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.DataContractSerialization.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.Uri.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.Xml.Linq.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.Xml.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.DispatchProxy.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Emit.ILGeneration.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Emit.Lightweight.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Emit.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Metadata.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.TypeExtensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Resources.Reader.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Resources.ResourceManager.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Resources.Writer.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.CompilerServices.VisualC.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Handles.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.InteropServices.JavaScript.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.InteropServices.RuntimeInformation.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.InteropServices.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Intrinsics.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Loader.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Numerics.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Serialization.Formatters.dll": {
+            "assemblyVersion": "8.1.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Serialization.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Serialization.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Serialization.Xml.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.Serialization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Runtime.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Claims.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Algorithms.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Cng.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Csp.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Encoding.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.OpenSsl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.X509Certificates.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Principal.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.SecureString.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ServiceModel.Web.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ServiceProcess.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.Encoding.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.Encoding.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Text.RegularExpressions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Channels.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Overlapped.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Tasks.Dataflow.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Tasks.Parallel.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Tasks.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Thread.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.ThreadPool.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.Timer.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Threading.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Transactions.Local.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Transactions.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.ValueTuple.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Web.HttpUtility.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Web.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.Linq.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.ReaderWriter.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.Serialization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.XDocument.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.XPath.XDocument.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.XPath.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.XmlDocument.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.XmlSerializer.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xml.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "mscorlib.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "netstandard.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        },
+        "native": {
+          "Microsoft.DiaSymReader.Native.amd64.dll": {
+            "fileVersion": "14.50.35738.0"
+          },
+          "System.IO.Compression.Native.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "clretwrc.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "clrgc.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "clrgcexp.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "clrjit.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "coreclr.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "createdump.exe": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "hostfxr.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "hostpolicy.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "mscordaccore.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "mscordaccore_amd64_amd64_10.0.1226.42308.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "mscordbi.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "mscorrc.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "msquic.dll": {
+            "fileVersion": "2.5.10.0"
+          }
+        }
+      },
+      "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64/10.0.12": {
+        "runtime": {
+          "Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "DirectWriteForwarder.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "Microsoft.Win32.Registry.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationCore.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework-SystemCore.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework-SystemData.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework-SystemDrawing.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework-SystemXml.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework-SystemXmlLinq.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Aero.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Aero2.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.AeroLite.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Classic.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Fluent.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Luna.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.Royale.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationFramework.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationUI.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "ReachFramework.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.CodeDom.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.EventLog.Messages.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.DirectoryServices.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Formats.Nrbf.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Packaging.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Printing.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.Windows.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Resources.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Pkcs.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Cryptography.Xml.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Security.Permissions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.Controls.Ribbon.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.Input.Manipulations.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.Presentation.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Windows.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Xaml.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "UIAutomationClient.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "UIAutomationClientSideProviders.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "UIAutomationProvider.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "UIAutomationTypes.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "WindowsBase.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        },
+        "native": {
+          "D3DCompiler_47_cor3.dll": {
+            "fileVersion": "10.0.26100.7705"
+          },
+          "PenImc_cor3.dll": {
+            "fileVersion": "10.0.1226.42308"
+          },
+          "PresentationNative_cor3.dll": {
+            "fileVersion": "10.0.526.35501"
+          },
+          "vcruntime140_cor3.dll": {
+            "fileVersion": "14.44.35211.0"
+          },
+          "wpfgfx_cor3.dll": {
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "AssetRipper.TextureDecoder/2.6.2": {
+        "runtime": {
+          "lib/net10.0/AssetRipper.TextureDecoder.dll": {
+            "assemblyVersion": "2.6.2.0",
+            "fileVersion": "2.6.2.0"
+          }
+        }
+      },
+      "Berrysoft.XXTea/4.0.9": {
+        "runtime": {
+          "lib/netcoreapp3.0/Berrysoft.XXTea.dll": {
+            "assemblyVersion": "4.0.9.0",
+            "fileVersion": "4.0.9.0"
+          }
+        }
+      },
+      "Blake3/3.0.2": {
+        "runtime": {
+          "lib/net8.0/Blake3.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.2.0"
+          }
+        }
+      },
+      "BouncyCastle.Cryptography/2.6.2": {
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.6.2.46322"
+          }
+        }
+      },
+      "CommunityToolkit.HighPerformance/8.4.2": {
+        "runtime": {
+          "lib/net8.0/CommunityToolkit.HighPerformance.dll": {
+            "assemblyVersion": "8.4.0.0",
+            "fileVersion": "8.4.2.1"
+          }
+        }
+      },
+      "FixedMathSharp/4.0.1": {
+        "dependencies": {
+          "MemoryPack": "1.21.4"
+        },
+        "runtime": {
+          "lib/net8.0/FixedMathSharp.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
+          }
+        }
+      },
+      "Fmod5Sharp/3.1.0": {
+        "dependencies": {
+          "IndexRange": "1.1.0",
+          "NAudio.Core": "2.2.1",
+          "OggVorbisEncoder": "1.2.2"
+        },
+        "runtime": {
+          "lib/net10.0/Fmod5Sharp.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "GenericReader/2.3.0": {
+        "runtime": {
+          "lib/net10.0/GenericReader.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      },
+      "IndexRange/1.1.0": {
+        "dependencies": {
+          "Microsoft.Bcl.Memory": "9.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/IndexRange.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Infrablack.UE4Config/0.7.2.97": {
+        "runtime": {
+          "lib/netstandard2.0/UE4Config.dll": {
+            "assemblyVersion": "0.7.2.97",
+            "fileVersion": "0.7.2.97"
+          }
+        }
+      },
+      "K4os.Compression.LZ4/1.3.8": {
+        "runtime": {
+          "lib/net6.0/K4os.Compression.LZ4.dll": {
+            "assemblyVersion": "1.3.8.0",
+            "fileVersion": "1.3.8.0"
+          }
+        }
+      },
+      "K4os.Compression.LZ4.Streams/1.3.8": {
+        "dependencies": {
+          "K4os.Compression.LZ4": "1.3.8",
+          "K4os.Hash.xxHash": "1.0.8"
+        },
+        "runtime": {
+          "lib/net6.0/K4os.Compression.LZ4.Streams.dll": {
+            "assemblyVersion": "1.3.8.0",
+            "fileVersion": "1.3.8.0"
+          }
+        }
+      },
+      "K4os.Hash.xxHash/1.0.8": {
+        "runtime": {
+          "lib/net6.0/K4os.Hash.xxHash.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
+      "LZMA-SDK/22.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/SevenZip.dll": {
+            "assemblyVersion": "22.1.1.0",
+            "fileVersion": "22.1.1.0"
+          }
+        }
+      },
+      "MemoryPack/1.21.4": {
+        "dependencies": {
+          "MemoryPack.Core": "1.21.4"
+        }
+      },
+      "MemoryPack.Core/1.21.4": {
+        "runtime": {
+          "lib/net8.0/MemoryPack.Core.dll": {
+            "assemblyVersion": "1.21.4.0",
+            "fileVersion": "1.21.4.0"
+          }
+        }
+      },
+      "Microsoft.Bcl.Memory/9.0.0": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Bcl.Memory.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.52809"
+          }
+        }
+      },
+      "NAudio.Core/2.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/NAudio.Core.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
+      "OffiUtils/3.2.0": {
+        "dependencies": {
+          "CommunityToolkit.HighPerformance": "8.4.2"
+        },
+        "runtime": {
+          "lib/net10.0/OffiUtils.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "OggVorbisEncoder/1.2.2": {
+        "runtime": {
+          "lib/net7.0/OggVorbisEncoder.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "Oodle.NET/2.2.0": {
+        "runtime": {
+          "lib/net10.0/Oodle.NET.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "OodleSharp/0.0.1": {
+        "runtime": {
+          "lib/net10.0/OodleSharp.dll": {
+            "assemblyVersion": "0.0.1.0",
+            "fileVersion": "0.0.1.0"
+          }
+        }
+      },
+      "OpenTK/4.9.4": {
+        "dependencies": {
+          "OpenTK.Audio.OpenAL": "4.9.4",
+          "OpenTK.Compute": "4.9.4",
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.Graphics": "4.9.4",
+          "OpenTK.Input": "4.9.4",
+          "OpenTK.Mathematics": "4.9.4",
+          "OpenTK.Windowing.Common": "4.9.4",
+          "OpenTK.Windowing.Desktop": "4.9.4",
+          "OpenTK.Windowing.GraphicsLibraryFramework": "4.9.4"
+        }
+      },
+      "OpenTK.Audio.OpenAL/4.9.4": {
+        "dependencies": {
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.Mathematics": "4.9.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Audio.OpenAL.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Compute/4.9.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Compute.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Core/4.9.4": {
+        "runtime": {
+          "lib/netstandard2.1/OpenTK.Core.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Graphics/4.9.4": {
+        "dependencies": {
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.Mathematics": "4.9.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Graphics.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Input/4.9.4": {
+        "runtime": {
+          "lib/netstandard2.0/OpenTK.Input.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Mathematics/4.9.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Mathematics.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.redist.glfw/3.4.0.44": {
+        "native": {
+          "runtimes/win-x64/native/glfw3.dll": {
+            "fileVersion": "3.4.0.0"
+          }
+        }
+      },
+      "OpenTK.Windowing.Common/4.9.4": {
+        "dependencies": {
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.Mathematics": "4.9.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Windowing.Common.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Windowing.Desktop/4.9.4": {
+        "dependencies": {
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.Mathematics": "4.9.4",
+          "OpenTK.Windowing.Common": "4.9.4",
+          "OpenTK.Windowing.GraphicsLibraryFramework": "4.9.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Windowing.Desktop.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Windowing.GraphicsLibraryFramework/4.9.4": {
+        "dependencies": {
+          "OpenTK.Core": "4.9.4",
+          "OpenTK.redist.glfw": "3.4.0.44"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OpenTK.Windowing.GraphicsLibraryFramework.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "Serilog/4.3.1": {
+        "runtime": {
+          "lib/net10.0/Serilog.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/6.1.1": {
+        "dependencies": {
+          "Serilog": "4.3.1"
+        },
+        "runtime": {
+          "lib/net8.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
+        }
+      },
+      "SharpGLTF.Core/1.0.6": {
+        "runtime": {
+          "lib/net10.0/SharpGLTF.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpGLTF.Runtime/1.0.6": {
+        "dependencies": {
+          "SharpGLTF.Core": "1.0.6"
+        },
+        "runtime": {
+          "lib/net10.0/SharpGLTF.Runtime.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpGLTF.Toolkit/1.0.6": {
+        "dependencies": {
+          "SharpGLTF.Runtime": "1.0.6"
+        },
+        "runtime": {
+          "lib/net10.0/SharpGLTF.Toolkit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.1.12": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.12.0"
+          }
+        }
+      },
+      "SkiaSharp/2.88.9": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "2.88.9"
+        },
+        "runtime": {
+          "lib/net6.0/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.9.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Win32/2.88.9": {
+        "native": {
+          "runtimes/win-x64/native/libSkiaSharp.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SubstreamSharp/1.0.3": {
+        "runtime": {
+          "lib/net6.0/SubstreamSharp.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "System.IO.Hashing/10.0.8": {
+        "runtime": {
+          "lib/net10.0/System.IO.Hashing.dll": {
+            "assemblyVersion": "10.0.0.8",
+            "fileVersion": "10.0.826.23019"
+          }
+        }
+      },
+      "System.Numerics.Tensors/10.0.10": {
+        "runtime": {
+          "lib/net10.0/System.Numerics.Tensors.dll": {
+            "assemblyVersion": "10.0.0.10",
+            "fileVersion": "10.0.1026.32716"
+          }
+        }
+      },
+      "Twizzle.ImGui-Bundle.NET/1.91.5.2": {
+        "runtime": {
+          "lib/net8.0/Twizzle.ImGui-Bundle.NET.dll": {
+            "assemblyVersion": "1.91.5.2",
+            "fileVersion": "1.91.5.2"
+          }
+        },
+        "native": {
+          "runtimes/win-x64/native/cimgui.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "VGAudio/2.2.1": {
+        "runtime": {
+          "lib/netstandard1.1/VGAudio.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Zlib-ng.NET/1.2.0": {
+        "runtime": {
+          "lib/net10.0/Zlib-ng.NET.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "ZstdSharp.Port/0.8.8": {
+        "runtime": {
+          "lib/net9.0/ZstdSharp.dll": {
+            "assemblyVersion": "0.8.8.0",
+            "fileVersion": "0.8.8.0"
+          }
+        }
+      },
+      "CUE4Parse/1.2.2": {
+        "dependencies": {
+          "Berrysoft.XXTea": "4.0.9",
+          "Blake3": "3.0.2",
+          "BouncyCastle.Cryptography": "2.6.2",
+          "FixedMathSharp": "4.0.1",
+          "Fmod5Sharp": "3.1.0",
+          "GenericReader": "2.3.0",
+          "Infrablack.UE4Config": "0.7.2.97",
+          "K4os.Compression.LZ4.Streams": "1.3.8",
+          "LZMA-SDK": "22.1.1",
+          "Newtonsoft.Json": "13.0.4",
+          "OffiUtils": "3.2.0",
+          "Oodle.NET": "2.2.0",
+          "OodleSharp": "0.0.1",
+          "Serilog": "4.3.1",
+          "Serilog.Sinks.Console": "6.1.1",
+          "SubstreamSharp": "1.0.3",
+          "System.IO.Hashing": "10.0.8",
+          "System.Numerics.Tensors": "10.0.10",
+          "VGAudio": "2.2.1",
+          "Zlib-ng.NET": "1.2.0",
+          "ZstdSharp.Port": "0.8.8"
+        },
+        "runtime": {
+          "CUE4Parse.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "CUE4Parse-Conversion/1.2.2": {
+        "dependencies": {
+          "AssetRipper.TextureDecoder": "2.6.2",
+          "CUE4Parse": "1.2.2",
+          "SharpGLTF.Core": "1.0.6",
+          "SharpGLTF.Toolkit": "1.0.6",
+          "SixLabors.ImageSharp": "3.1.12",
+          "SkiaSharp": "2.88.9"
+        },
+        "runtime": {
+          "CUE4Parse-Conversion.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      },
+      "Editor/1.0.0": {
+        "dependencies": {
+          "Snooper": "1.0.0"
+        },
+        "runtime": {
+          "Editor.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Snooper/1.0.0": {
+        "dependencies": {
+          "CUE4Parse-Conversion": "1.2.2",
+          "OpenTK": "4.9.4",
+          "Twizzle.ImGui-Bundle.NET": "1.91.5.2"
+        },
+        "runtime": {
+          "Snooper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FortnitePicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/10.0.12": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64/10.0.12": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssetRipper.TextureDecoder/2.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-amxJyySJVacy0vv+uPAmj6KoHlNuwZmZVd4TuBMCESQB2wwvH37gLzzo9/0zU6dPXbxXbSQDG1U7slOx50DtZw==",
+      "path": "assetripper.texturedecoder/2.6.2",
+      "hashPath": "assetripper.texturedecoder.2.6.2.nupkg.sha512"
+    },
+    "Berrysoft.XXTea/4.0.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-egPzlakxtRpYl4rd7S5XYSfOMbSjmlurUFEgPU5+q4B+9f0qhlfr0Scn9zs8LqqXPeRq1j41z7A+qCrRZDyJsw==",
+      "path": "berrysoft.xxtea/4.0.9",
+      "hashPath": "berrysoft.xxtea.4.0.9.nupkg.sha512"
+    },
+    "Blake3/3.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-THvWhdj8ErSdrGamTqjshCU1ImANfr7ieKY6eFqeMsRenvXEKut9qGm5/MA4SUk8IYvAahf67jSh0yVj9jTPzg==",
+      "path": "blake3/3.0.2",
+      "hashPath": "blake3.3.0.2.nupkg.sha512"
+    },
+    "BouncyCastle.Cryptography/2.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7oWOcvnntmMKNzDLsdxAYqApt+AjpRpP2CShjMfIa3umZ42UQMvH0tl1qAliYPNYO6vTdcGMqnRrCPmsfzTI1w==",
+      "path": "bouncycastle.cryptography/2.6.2",
+      "hashPath": "bouncycastle.cryptography.2.6.2.nupkg.sha512"
+    },
+    "CommunityToolkit.HighPerformance/8.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2hmtrrU18x6NL3mbuAqwy0KpnoEEJOuK6sH5RKQfD/jHijn2pqvqBUC7WGy9dgNBL9BDA7eOC0kirsNPMp2f4Q==",
+      "path": "communitytoolkit.highperformance/8.4.2",
+      "hashPath": "communitytoolkit.highperformance.8.4.2.nupkg.sha512"
+    },
+    "FixedMathSharp/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eUZzaWGXfPitqyJvF+6IFGaYRwWfg65Ia6I7bRbcF7U8Yw2BKBQ1vFl6qE/NGKaapMBVjQ+liDkvRSkwMuRR3w==",
+      "path": "fixedmathsharp/4.0.1",
+      "hashPath": "fixedmathsharp.4.0.1.nupkg.sha512"
+    },
+    "Fmod5Sharp/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DPM710gixvM3GrF5FTceXgaAZmH4B3amo92HNIJHiXHUJdeIF3R/cZKDrZzc4A5gzX/M1MbqWBphR90e/b6HxQ==",
+      "path": "fmod5sharp/3.1.0",
+      "hashPath": "fmod5sharp.3.1.0.nupkg.sha512"
+    },
+    "GenericReader/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JeTTJenG7Ys+d+qSpO5xlg07oCC7Xg+tCNYuJOzBcw3v1IPivsbix9jF0odM8EtviL74vC/zRE3V/tm6WPnxZw==",
+      "path": "genericreader/2.3.0",
+      "hashPath": "genericreader.2.3.0.nupkg.sha512"
+    },
+    "IndexRange/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fG+2WP1e3Fg3ZVq85XAdiwG9t0twi3r0LvOrTjtbH/31Rd5gLnV5APOD2JHAowbZYDgj9D3rXRbUvIL+ew0WZQ==",
+      "path": "indexrange/1.1.0",
+      "hashPath": "indexrange.1.1.0.nupkg.sha512"
+    },
+    "Infrablack.UE4Config/0.7.2.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZjCEAqkSSr2Z8Rp82wo6ME98WJ0P2DyKrr+11X2KqZ/q/rzloyv6rJ+m45J2qWY1Piu2E9XcJ2gvRHQCapuTQQ==",
+      "path": "infrablack.ue4config/0.7.2.97",
+      "hashPath": "infrablack.ue4config.0.7.2.97.nupkg.sha512"
+    },
+    "K4os.Compression.LZ4/1.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LhwlPa7c1zs1OV2XadMtAWdImjLIsqFJPoRcIWAadSRn0Ri1DepK65UbWLPmt4riLqx2d40xjXRk0ogpqNtK7g==",
+      "path": "k4os.compression.lz4/1.3.8",
+      "hashPath": "k4os.compression.lz4.1.3.8.nupkg.sha512"
+    },
+    "K4os.Compression.LZ4.Streams/1.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P15qr8dZAeo9GvYbUIPEYFQ0MEJ0i5iqr37wsYeRC3la2uCldOoeCa6to0CZ1taiwxIV+Mk8NGuZi+4iWivK9w==",
+      "path": "k4os.compression.lz4.streams/1.3.8",
+      "hashPath": "k4os.compression.lz4.streams.1.3.8.nupkg.sha512"
+    },
+    "K4os.Hash.xxHash/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wp2F7BamQ2Q/7Hk834nV9vRQapgcr8kgv9Jvfm8J3D0IhDqZMMl+a2yxUq5ltJitvXvQfB8W6K4F4fCbw/P6YQ==",
+      "path": "k4os.hash.xxhash/1.0.8",
+      "hashPath": "k4os.hash.xxhash.1.0.8.nupkg.sha512"
+    },
+    "LZMA-SDK/22.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lxG8/H53OCqebnDFlTStwzbgtmUN/DqnXN8kffa/ctHcSEHhIPDyEa3jLzpZxVX5F8bmJgvb1mna6gnhetykIw==",
+      "path": "lzma-sdk/22.1.1",
+      "hashPath": "lzma-sdk.22.1.1.nupkg.sha512"
+    },
+    "MemoryPack/1.21.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wy3JTBNBsO8LfQcBvvYsWr3lm2Oakolrfu0UQ3oSJSEiD+7ye0GUhYTaXuYYBowqsXBXWD9gf2218ae0JRiYVQ==",
+      "path": "memorypack/1.21.4",
+      "hashPath": "memorypack.1.21.4.nupkg.sha512"
+    },
+    "MemoryPack.Core/1.21.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6RszGorZ0ejNmp37ZcboPBMvvPCuNW2jlrdQfcs/lMzE5b3pmPF6hsm/laDc34hRlbAST1ZxaX/DvYu2DF5sBQ==",
+      "path": "memorypack.core/1.21.4",
+      "hashPath": "memorypack.core.1.21.4.nupkg.sha512"
+    },
+    "Microsoft.Bcl.Memory/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bTUtGfpGyJnohQzjdXbtc7MqNzkv7CWUSRz54+ucNm0i32rZiIU0VdVPHDBShOl1qhVKRjW8mnEBz3d2vH93tQ==",
+      "path": "microsoft.bcl.memory/9.0.0",
+      "hashPath": "microsoft.bcl.memory.9.0.0.nupkg.sha512"
+    },
+    "NAudio.Core/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GgkdP6K/7FqXFo7uHvoqGZTJvW4z8g2IffhOO4JHaLzKCdDOUEzVKtveoZkCuUX8eV2HAINqi7VFqlFndrnz/g==",
+      "path": "naudio.core/2.2.1",
+      "hashPath": "naudio.core.2.2.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    },
+    "OffiUtils/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sejwMr+CWLla0wzpvQSBSe+xCUk01XeKh39R/aG7a//ZHzp7twxPcnbz634w+Rk3bLRVsuL9Jp49RFw42MGjUw==",
+      "path": "offiutils/3.2.0",
+      "hashPath": "offiutils.3.2.0.nupkg.sha512"
+    },
+    "OggVorbisEncoder/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MZMa5URyED82nJUfGCbulS/1/Np+zhE2mt3h9TuAPOurVN3rYHEaVc7cKd7IK1vROB4UMdTgSoPCW3EJCNmHJw==",
+      "path": "oggvorbisencoder/1.2.2",
+      "hashPath": "oggvorbisencoder.1.2.2.nupkg.sha512"
+    },
+    "Oodle.NET/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6+rGT+Y2dBkACr2dQ0+NBm5mpDJ66ec8X2RFLyNjm1pRojMK5DcRiA8iqVdMgYue7OPMUhN7ViSn0iu0X4NmRQ==",
+      "path": "oodle.net/2.2.0",
+      "hashPath": "oodle.net.2.2.0.nupkg.sha512"
+    },
+    "OodleSharp/0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8XioZSNsed2bv0ouBOqgHDH1guZepf844lCQGndo4jqzuFAiuurIlZ1my/3vXdN3aXdhe3jPrWQzDjXZqxZH7Q==",
+      "path": "oodlesharp/0.0.1",
+      "hashPath": "oodlesharp.0.0.1.nupkg.sha512"
+    },
+    "OpenTK/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fp9ZI6akO4ZuIGzuUE0QRU5zRJhXbSXa5racehFoTdvodhRDecXCOcH68mRsZaMwnxLO9ECnf2LGM9BmiJKvhw==",
+      "path": "opentk/4.9.4",
+      "hashPath": "opentk.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Audio.OpenAL/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N/SCeFrLJ3ckUbshyfsonbtjmDxh55urGiR+Fe1iPkTWyEW5OKfQRoIOZyjEva/4eRqOXdt3bV2ka4IJ2+JvZw==",
+      "path": "opentk.audio.openal/4.9.4",
+      "hashPath": "opentk.audio.openal.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Compute/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-30G+/9mtrUJwX5xcRyz2qcujQ2s+wDm+C7qg6jDsLyGWUdND3j/vD+nlQ6tuKuAow51zWduFVujPkaS8VrBinQ==",
+      "path": "opentk.compute/4.9.4",
+      "hashPath": "opentk.compute.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Core/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/4Mn3ABf1xNfHMzDFUapVY2K4PG3oP/oWTQJlK0JacT20HwsNe/HPIAhnAJWz27EM3ukOJDtqyQRukvQKqkcLw==",
+      "path": "opentk.core/4.9.4",
+      "hashPath": "opentk.core.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Graphics/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yZeq5swIsRnNzifVA9fLtl+qMAQvmYiF1b7U/XQLARmmU4PYQ23lPNahqAdD22XzA21ew7eG3yDyPLkYw+hDBA==",
+      "path": "opentk.graphics/4.9.4",
+      "hashPath": "opentk.graphics.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Input/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-njbC7fySQEK30rjOQ1uRjlycEkLw+UVoPT3nRQ8uBPNLotDgr47NEcPEjmJyX1ll+pm/wmtcvJIYHBRi1HbOqg==",
+      "path": "opentk.input/4.9.4",
+      "hashPath": "opentk.input.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Mathematics/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2ucF25RVJzdSLXUHgjAgB058gVfSgerrR5pLCn9J+Bnyqi45NrBfPu9wyTT35ZCjYwLJCu/HJMnzKFLjq+uFIA==",
+      "path": "opentk.mathematics/4.9.4",
+      "hashPath": "opentk.mathematics.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.redist.glfw/3.4.0.44": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HEjbdk0wWxSRrXHl3DSmrA8trecndgJpAHHloJJ1vPseNfeu/ynmrH/LturU1KguRn4r3IzZ81UIp5xRjnyahg==",
+      "path": "opentk.redist.glfw/3.4.0.44",
+      "hashPath": "opentk.redist.glfw.3.4.0.44.nupkg.sha512"
+    },
+    "OpenTK.Windowing.Common/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xNjvKjoptAh6w5/YYIx/9sNv3/A2VVlTahlekTlLP+qfNyig+0jBuLHO4bWELWZ7Ta3Y1m/2Pvk0Z1KCG8VZOA==",
+      "path": "opentk.windowing.common/4.9.4",
+      "hashPath": "opentk.windowing.common.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Windowing.Desktop/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LBX4jwCneISIBST2vWYLI8cdR8tLwHNcswK1decElbTAXMB+H6uFIoF41ld+af4q3TsHpjR5fyP2ilbTK3T0rA==",
+      "path": "opentk.windowing.desktop/4.9.4",
+      "hashPath": "opentk.windowing.desktop.4.9.4.nupkg.sha512"
+    },
+    "OpenTK.Windowing.GraphicsLibraryFramework/4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wNlxnPrD7veMV8EGTTi/sCDeg5V8w/18vC0aw0Ao69eNneD7YSq9Ad+C389rVA957eHNR6Xieu/5qzHQeEOyxQ==",
+      "path": "opentk.windowing.graphicslibraryframework/4.9.4",
+      "hashPath": "opentk.windowing.graphicslibraryframework.4.9.4.nupkg.sha512"
+    },
+    "Serilog/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-savYe7h5yRlkqBVOwP8cIRDOdqKiPmYCU4W87JH38sBmcKD5EBoXvQIw6bNEvZ/pTe1gsiye3VFCzBsoppGkXQ==",
+      "path": "serilog/4.3.1",
+      "hashPath": "serilog.4.3.1.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8jbqgjUyZlfCuSTaJk6lOca465OndqOz3KZP6Cryt/IqZYybyBu7GP0fE/AXBzrrQB3EBmQntBFAvMVz1COvAA==",
+      "path": "serilog.sinks.console/6.1.1",
+      "hashPath": "serilog.sinks.console.6.1.1.nupkg.sha512"
+    },
+    "SharpGLTF.Core/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m3qIvUnpvRRfQ0fp0TFfpPk+vsHkCIOf/uIVJ19fe9dwa29KCO/PeHVXKAph8nsFxFLXitTIIqCa5W8JGLMhBg==",
+      "path": "sharpgltf.core/1.0.6",
+      "hashPath": "sharpgltf.core.1.0.6.nupkg.sha512"
+    },
+    "SharpGLTF.Runtime/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MVb0p0gzwnjHB03b0kMhf9bVUd6gSvs/jBpTkL6rMa0RtzSGARbCvZkpGbHXjxgSTncprEuzV4nAaaAucifc3Q==",
+      "path": "sharpgltf.runtime/1.0.6",
+      "hashPath": "sharpgltf.runtime.1.0.6.nupkg.sha512"
+    },
+    "SharpGLTF.Toolkit/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wb9Ebb4uwXevL4WiLlry29RWIYlxa+NiAa0BB8iSR7VbmgSa5Ij/QaPNlKi1jjA4oL8aEygg5V76zY1SJfIS+Q==",
+      "path": "sharpgltf.toolkit/1.0.6",
+      "hashPath": "sharpgltf.toolkit.1.0.6.nupkg.sha512"
+    },
+    "SixLabors.ImageSharp/3.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iAg6zifihXEFS/t7fiHhZBGAdCp3FavsF4i2ZIDp0JfeYeDVzvmlbY1CNhhIKimaIzrzSi5M/NBFcWvZT2rB/A==",
+      "path": "sixlabors.imagesharp/3.1.12",
+      "hashPath": "sixlabors.imagesharp.3.1.12.nupkg.sha512"
+    },
+    "SkiaSharp/2.88.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3MD5VHjXXieSHCleRLuaTXmL2pD0mB7CcOB1x2kA1I4bhptf4e3R27iM93264ZYuAq6mkUyX5XbcxnZvMJYc1Q==",
+      "path": "skiasharp/2.88.9",
+      "hashPath": "skiasharp.2.88.9.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/2.88.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wb2kYgU7iy84nQLYZwMeJXixvK++GoIuECjU4ECaUKNuflyRlJKyiRhN1MAHswvlvzuvkrjRWlK0Za6+kYQK7w==",
+      "path": "skiasharp.nativeassets.win32/2.88.9",
+      "hashPath": "skiasharp.nativeassets.win32.2.88.9.nupkg.sha512"
+    },
+    "SubstreamSharp/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XV/cpJkajpqg2qMYAZzXFcklLy4KvFEiWQFE+amUAzLzQqk/nyAdQp0gXX2rGz5F/ALkvd8bgKBiDW+QuKOXDQ==",
+      "path": "substreamsharp/1.0.3",
+      "hashPath": "substreamsharp.1.0.3.nupkg.sha512"
+    },
+    "System.IO.Hashing/10.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+dJsbPJ3FyUbTZNplFj0RCKePFizmv6ewDV46JE9q/IVH4c3xTCftHfHelLsAKf0jryIPqgMb5GpS0x7TAY3mg==",
+      "path": "system.io.hashing/10.0.8",
+      "hashPath": "system.io.hashing.10.0.8.nupkg.sha512"
+    },
+    "System.Numerics.Tensors/10.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9Ildb4Y9maDztB0ZRGxsNShbpCQ2Tjv2dr4IjskBxpTGhH7aIz1+oC+Hl833ASs/htWwsH6myNe+sRpeyCzeMQ==",
+      "path": "system.numerics.tensors/10.0.10",
+      "hashPath": "system.numerics.tensors.10.0.10.nupkg.sha512"
+    },
+    "Twizzle.ImGui-Bundle.NET/1.91.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1NKwPXkw1hHyPSnRmMQYpLPPSGUQ0RF1IW6rEEMTTxXZM1z5AxO84sI1bGJdYxR+9SsfPTAnzzahS5eDqBDrUw==",
+      "path": "twizzle.imgui-bundle.net/1.91.5.2",
+      "hashPath": "twizzle.imgui-bundle.net.1.91.5.2.nupkg.sha512"
+    },
+    "VGAudio/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eg8TusdIdla4XejVolG3da6UtshRQPmjCoTxejBff4sJf0wgI1Ic6vvNiYjb96gX21kvWLONRgyvc3NVHP6TYg==",
+      "path": "vgaudio/2.2.1",
+      "hashPath": "vgaudio.2.2.1.nupkg.sha512"
+    },
+    "Zlib-ng.NET/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W97KdZxrekUMf9DjO9xSb7YzL0H642Hc3ACqABThY3z5M5+wPeFG3pbdL7ObsLL81ysR3swrXTEydla0tDyD5w==",
+      "path": "zlib-ng.net/1.2.0",
+      "hashPath": "zlib-ng.net.1.2.0.nupkg.sha512"
+    },
+    "ZstdSharp.Port/0.8.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UIDFkA5DC3en3tOJ3Mof11yBx9kUQLsaeo/oFdvN6Bbkr9E9+VCqfIadHci8cu+I51K2Sl7XYWVl2R/mA75NBQ==",
+      "path": "zstdsharp.port/0.8.8",
+      "hashPath": "zstdsharp.port.0.8.8.nupkg.sha512"
+    },
+    "CUE4Parse/1.2.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CUE4Parse-Conversion/1.2.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Snooper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  },
+  "runtimes": {
+    "win-x64": [
+      "win",
+      "any",
+      "base"
+    ]
+  }
+}
